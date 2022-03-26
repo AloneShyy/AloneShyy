@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AloneShyy
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning: Java
 - 📫 How to reach me rarejongzakelijk@gmail.com
 
 <!---
